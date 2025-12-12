@@ -33,7 +33,7 @@ Full Gameplay: https://youtu.be/2psurHzkra4
 
 Team size: 4 — Primary responsibility: gameplay systems
 
-  ## What I Worked On
+  ### What I Worked On
 
   Designed and implemented the dynamic wave system where new waves spawn after the previous one is cleared.
   Implemented weighted enemy selection so wave compositions vary and avoid repetition.
