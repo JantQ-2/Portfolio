@@ -31,7 +31,7 @@ Python, Flask, SQLite
 
 Full Gameplay: https://youtu.be/2psurHzkra4
 
-Team size: 4 — Primary responsibility: gameplay systems
+Team size: 4, Primary responsibility: gameplay systems
 
   ### What I Worked On
 
