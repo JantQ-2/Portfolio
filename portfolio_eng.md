@@ -33,12 +33,12 @@ Full Gameplay: https://youtu.be/2psurHzkra4
 
 Team size: 4 — Primary responsibility: gameplay systems
 
-## What I Worked On
+  ## What I Worked On
 
-Designed and implemented the dynamic wave system where new waves spawn after the previous one is cleared.
-Implemented weighted enemy selection so wave compositions vary and avoid repetition.
-Built the upgrade system, designed for fast iteration — adding a new upgrade typically takes only a few minutes.
-Implemented weighted upgrade selection to control progression and balance without hard-coding.
-Implemented difficulty scaling both per wave and for overall game difficulty.
-Developed core player systems including health, overhealing, and armor.
-Built a custom API to store scores and run data, mainly for leaderboards and additional gameplay statistics.
+  Designed and implemented the dynamic wave system where new waves spawn after the previous one is cleared.
+  Implemented weighted enemy selection so wave compositions vary and avoid repetition.
+  Built the upgrade system, designed for fast iteration — adding a new upgrade typically takes only a few minutes.
+  Implemented weighted upgrade selection to control progression and balance without hard-coding.
+  Implemented difficulty scaling both per wave and for overall game difficulty.
+  Developed core player systems including health, overhealing, and armor.
+  Built a custom API to store scores and run data, mainly for leaderboards and additional gameplay statistics.
