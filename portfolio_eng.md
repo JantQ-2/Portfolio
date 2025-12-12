@@ -9,7 +9,7 @@ C# • Unity • Kotlin • Java • Backend APIs
 # Contacts
 
 Email: ollikainenjanko1@gmail.com  
-GitHub: https://github.com/yourname
+GitHub: https://github.com/JantQ-2
 
 # Profile
 
